@@ -1,29 +1,5 @@
 # vueissue
 
-## Project setup
-```
-yarn install
-```
+Repository for https://github.com/vuejs/vue-devtools/issues/955
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Pull it run yarn serve and use one of the links on homepage it will cause an error in vue devtools
